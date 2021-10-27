@@ -1,0 +1,87 @@
+#body{
+    background-color: #FFFFD1;
+}
+
+#glavnaya{
+    margin-left:450px;
+    margin-top:80px;
+}
+
+#twoslogan{
+
+    margin-top: 229px;
+}
+#bread{
+    width:600px;
+    height:340px;
+    margin-left:40px;
+    margin-top:40px;
+   
+}
+#for_bread{
+   font-size:35px;
+   color:#4D4D4D;
+   margin-top:20px
+
+}
+#priceForBread{
+    color:#528C2E;
+}
+
+
+
+#pamp{
+    margin-top:80px;
+}
+#forPump{
+    font-size:35px;
+    color:#4D4D4D;
+    
+ 
+ }
+ #priceForPump{
+     color:#528C2E;
+ }
+
+
+
+
+ #threeslogan{
+     margin-top:100px;
+ }
+
+
+
+
+
+ #muffin{
+     width:400px;
+     height:300;
+     margin-top:50px;
+     margin-left:40px;
+ }
+ #forMuffin{
+    font-size:33px;
+    color:#4D4D4D;
+    margin-top:35px;
+ }
+ #priceForMuffin{
+    color:#528C2E;
+ }
+
+
+
+
+ #cookies{
+     width:500px;
+     height:400px;
+     margin-top:100px;
+ }
+ #forCookies{
+    font-size:33px;
+    color:#4D4D4D;
+    margin-top:5px;
+ }
+ #priceForCookies{
+     color: #528C2E;
+ }
